@@ -2,9 +2,9 @@
 
 This repository contains the code used to produce the results from the following paper:
 
->Martin Becker, Florian Lemmerich, Philipp Singer, Markus Strohmaier, Andreas Hotho
->**MixedTrails: Bayesian Hypotheses Comparison on Heterogeneous Sequential Data**
->[Preprint available on ArXiv](https://arxiv.org/abs/1612.07612).
+>Martin Becker, Florian Lemmerich, Philipp Singer, Markus Strohmaier, Andreas Hotho<br />
+**MixedTrails: Bayesian Hypotheses Comparison on Heterogeneous Sequential Data**<br />
+[Preprint available on ArXiv](https://arxiv.org/abs/1612.07612).
 
 The experiments are conducted on 
 * a **toy** example about soccer strategies, 
