@@ -58,5 +58,6 @@ python exp-wikispeedia.py
 ```
 
 ## Contact
->Martin Becker<br/>
+>Martin Becker<br />
+DMIR Group, University of Würzburg<br />
 becker@informatik.uni-wuerzburg.de
