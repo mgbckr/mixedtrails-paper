@@ -2,8 +2,8 @@
 
 This repository contains the code used to produce the results from the following paper:
 
->Martin Becker, Florian Lemmerich, Philipp Singer, Markus Strohmaier, Andreas Hotho<br />
-**MixedTrails: Bayesian Hypotheses Comparison on Heterogeneous Sequential Data**<br />
+>Martin Becker, Florian Lemmerich, Philipp Singer, Markus Strohmaier, Andreas Hotho  
+**MixedTrails: Bayesian Hypotheses Comparison on Heterogeneous Sequential Data**  
 [Preprint available on ArXiv](https://arxiv.org/abs/1612.07612).
 
 The experiments are conducted on 
@@ -58,6 +58,6 @@ python exp-wikispeedia.py
 ```
 
 ## Contact
->Martin Becker<br />
-DMIR Group, University of Würzburg<br />
+>Martin Becker  
+DMIR Group, University of Würzburg  
 becker@informatik.uni-wuerzburg.de
