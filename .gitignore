@@ -1,0 +1,9 @@
+__pycache__
+tmp/*
+out/*
+data/*
+*.pyc
+
+# PyCharm
+.idea
+.ipynb_checkpoints

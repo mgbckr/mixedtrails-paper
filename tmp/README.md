@@ -1,0 +1,1 @@
+Folder to hold temporary or intermediate results
