@@ -5,7 +5,7 @@ This repository contains the code used to produce the results from the following
 >Martin Becker, Florian Lemmerich, Philipp Singer, Markus Strohmaier, Andreas Hotho  
 **MixedTrails: Bayesian hypothesis comparison on heterogeneous sequential data**  
 Data Mining and Knowledge Discovery, 2017; [link](https://link.springer.com/article/10.1007/s10618-017-0518-x)  
--  
+---  
 *Presented at [ECML PKDD 2017](http://ecmlpkdd2017.ijs.si)*  
 [Preprint available on ArXiv](https://arxiv.org/abs/1612.07612).
 
